@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+Welcome to my world!
+Here you would find more interesting facts about me:)
 
-Theme Name: Day
-Theme URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-Author: BootstrapMade
-Author URL: https://bootstrapmade.com
+URL: zyliu.cn
+Linkedin URL: https://www.linkedin.com/in/liu-ziyi/
