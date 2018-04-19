@@ -338,7 +338,28 @@ a:hover {
   display: inline-block;
   line-height: 60px;
 }
+
 .gamp-btn a:hover {
+  color: #ffffff;
+  opacity: 0.8;
+  transition: all 0.5s;
+}
+
+.gamp-btn-1 a {
+  float: center;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  background: #272727;
+  color: #ffffff;
+  width: 180px;
+  height: 60px;
+  text-align: center;
+  display: inline-block;
+  line-height: 60px;
+}
+
+.gamp-btn-1 a:hover {
   color: #ffffff;
   opacity: 0.8;
   transition: all 0.5s;
@@ -769,13 +790,14 @@ ul.social_icons li  a i{
 }
 
 .gallery figure figcaption {
-	padding: 2em;
+	padding: 0em;
 	color: #fff;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-size: 1.25em;
 	-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;
 }
+
 
 .gallery figure figcaption::before,
 .gallery figure figcaption::after {
@@ -884,7 +906,7 @@ figure.effect-marley:hover p {
   background-size: cover;
   background-position: 0 0;
   background-repeat: no-repeat;
-  background-image: url(../img/7.jpg);
+  background-image: url(../img/15.jpg);
 }
 
 /* --- Map --- */
