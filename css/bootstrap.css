@@ -1,3 +1,4 @@
+
 /*!
  * Bootstrap v3.3.1 (http://getbootstrap.com)
  * Copyright 2011-2014 Twitter, Inc.
@@ -1125,6 +1126,14 @@ mark,
   padding: .2em;
   background-color: #fcf8e3;
 }
+
+.alignleft {
+  float: left;
+}
+.alignright {
+  float: right;
+}
+
 .text-left {
   text-align: left;
 }
