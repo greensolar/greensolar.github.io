@@ -325,25 +325,6 @@ a:hover {
   transition: all 0.5s;
 }
 
-.btn-gamp-1 a {
-  float: center;
-  font-size: 13px;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  color: #272727;
-  border: 2px solid #272727;
-  width: 180px;
-  height: 60px;
-  text-align: center;
-  display: inline-block;
-  line-height: 56px;
-}
-
-.btn-gam-1 a:hover {
-  opacity: 0.8;
-  transition: all 0.5s;
-}
-
 .gamp-btn a {
   float: left;
   font-size: 12px;
@@ -363,7 +344,6 @@ a:hover {
   opacity: 0.8;
   transition: all 0.5s;
 }
-
 
 .gamp-btn-1 a {
   float: center;
@@ -1167,91 +1147,3 @@ ul.social-network li a {
 	font-size:12px;
 	text-shadow:none;
 } 
-
-
-/*-----------------------------------------------------------------------------------*/
-/*  add from Folio
-/*-----------------------------------------------------------------------------------*/
-/*-----------------------------------------------------------------------------------*/
-/*  Navbar Top
-/*-----------------------------------------------------------------------------------*/
-
-/*-----------------------------------------------------------------------------------*/
-/*  Portfolio
-/*-----------------------------------------------------------------------------------*/
-/**/
-#portfolio {
-  position: relative;
-  padding-bottom: 50px;
-}
-
-#portfolio .portfolio-list {
-  margin-bottom: 50px;
-}
-
-#portfolio .portfolio-list .nav {
-  display: inline-block;
-  margin: 0;
-}
-
-#portfolio .portfolio-list .nav li {
-  margin: 0 40px 0 0;
-  float: left;
-  font-size: 14px;
-  color: #999999;
-  line-height: 16px;
-  cursor: pointer;
-  font-family: 'Poppins', helvetica;
-  font-weight: 500;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  -moz-transition: all 0.5s ease-in-out 0s;
-  -ms-transition: all 0.5s ease-in-out 0s;
-  -o-transition: all 0.5s ease-in-out 0s;
-  -webkit-transition: all 0.5s ease-in-out 0s;
-  transition: all 0.5s ease-in-out 0s;
-}
-
-#portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
-  color: #b8a07e;
-  -moz-transition: all 0.5s ease-in-out 0s;
-  -ms-transition: all 0.5s ease-in-out 0s;
-  -o-transition: all 0.5s ease-in-out 0s;
-  -webkit-transition: all 0.5s ease-in-out 0s;
-  transition: all 0.5s ease-in-out 0s;
-}
-
-#portfolio .portfolio-container {
-  display: inline-block;
-  margin-bottom: 50px;
-  width: 100%;
-}
-
-.portfolio-thumbnail {
-  margin-bottom: 30px;
-  overflow: hidden;
-}
-
-.portfolio-thumbnail img {
-  max-width: 100%;
-}
-
-.section-title {
-  margin-bottom: 70px;
-}
-
-.section-title h2 {
-  font-size: 25px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-}
-
-.paddsection {
-  padding-top: 90px;
-  padding-bottom: 90px;
-}
-
-.paddsections {
-  padding-top: 90px;
-  padding-bottom: 90px !important;
-}
